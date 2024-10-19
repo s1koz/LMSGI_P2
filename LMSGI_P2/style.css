@@ -1,0 +1,26 @@
+
+.titulo {
+    color: blue;
+    text-align: center;
+}
+
+.subtitulo {
+    color: bisque;
+    text-align: center;
+}
+
+.casillaVerde {
+    background-color: lightgreen;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+tbody td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
