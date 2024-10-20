@@ -11,16 +11,60 @@
 
 .casillaVerde {
     background-color: lightgreen;
+    padding: 30px;
+    font-size: 25px;
 }
 
 table {
     margin: auto;
     border-collapse: collapse;
-    width: 80%;
+    width: 90%;
 }
 
 tbody td {
-    border: 1px solid black;
     text-align: center;
+    padding: 5px;
+}
+
+.hores {
+    font-size: 20px;
     padding: 10px;
+    width: 180px;
+}
+
+.lmsgi {
+    background-color: rgb(233, 140, 219);
+}
+
+.bd {
+    background-color: rgb(241, 181, 181);
+}
+
+.ped {
+    background-color: rgb(2, 114, 79);
+}
+
+.si {
+    background-color: rgb(243, 243, 44);
+}
+
+.tut {
+    background-color: rgb(18, 97, 224);
+}
+
+.ang {
+    background-color: rgb(244, 209, 15);
+}
+
+.diw {
+    background-color: rgb(217, 119, 66);
+}
+
+.ipoi {
+    background-color: red;
+}
+
+.descans {
+    font-size: 20px;
+    padding: 15px;
 }
